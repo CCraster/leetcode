@@ -25,4 +25,4 @@ var runningSum2 = function (nums) {
   return arr;
 };
 
-// console.log(runningSum2([1, 2, 3, 4]));
+console.log(runningSum2([1, 2, 3, 4]));
